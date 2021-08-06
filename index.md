@@ -1,37 +1,142 @@
-## Welcome to GitHub Pages
+## Lime Engine
 
-You can use the [editor on GitHub](https://github.com/kadedevteam/Lime-Engine/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**If you want to help on the project you can suggest features and bugs! [click here]**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**If You want to learn how to use Lime-Engine and its entirety! [click here]**
 
-### Markdown
+### What is Lime Engine:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Lime Engine is an Entire **Community Based Rythem Game Engine**
+With features from peaple like you!
 
-```markdown
-Syntax highlighted code block
+Lime-Engine is also compatiable with other engines like
 
-# Header 1
-## Header 2
-### Header 3
+- Haxe Develop
+- Godot
+- Unity
+- ProDevloper
+- UnrealEngine
 
-- Bulleted
-- List
+## Previews
 
-1. Numbered
-2. List
+![Song Select](cs)
 
-**Bold** and _Italic_ and `Code` text
+![Gameplay#1](cs)
 
-[Link](url) and ![Image](src)
-```
+![Gameplay#2](cs)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Gameplay#3](cs)
 
-### Jekyll Themes
+![Menu](cs)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kadedevteam/Lime-Engine/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Settings#1](cs)
 
-### Support or Contact
+![Settings#2](cs)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Features!
+- **New Input System! Like no other**
+
+     Arrows Are on Time
+     
+     Sleek Inputs
+     
+     Customizable Offset 
+     
+
+- **Reworked Ratings**
+
+     Rating Systems are accruate depending on offset
+     
+     Rating Times
+     
+     Rating Scores
+     
+- **Customizable Keybinds**
+
+     Instad of Being Forced to use arrows or WSAD
+     
+     you can now change keybinds depending on how you want it!
+     
+- **Advanced Gameplay Options**
+
+     Gameplay Options like
+     
+     Scroll Speed (Dependednt or Custom)
+     
+     Down, Up, and Middle Scroll
+     
+     Hp Bar
+     
+     Ghost Tapping
+     
+     Spam Ratings
+     
+     And so Much MORE!
+     
+- **Custom Notes**
+
+     Change the Desighn of your notes
+     
+     along with the color
+     
+- **2, 3, 4, 6, 8 key Versions Avaliable**
+
+     Play with 2 Key
+     
+     4 Key
+     
+     6 Key
+     
+     and 8 Key varients of charts!
+     
+- **Custom Charts and Modifications made by the community!**
+
+     Many Modded Version and Beatmaps
+     
+     By the Community!
+     
+- **New Mechanics and Gameplay**
+
+     New Mechanics Like
+     
+     Death Notes
+     
+     Decrese Notes
+     
+     HP DAMAGE Notes
+     
+     New Gameplay Mechanics Like
+     
+     Wavey Notes
+     
+     Blur Notes
+     
+     Fast Notes
+     
+     Slow Notes
+     
+     Distractions!
+     
+- **Modcharts!**
+
+     New Modcharts using the LUA Programing Langugae
+     
+- **COMPLETELY OPEN SOURCE !**
+
+     The Entire Project is Open Source Here on Github!
+
+## Credits
+
+### Programers
+    Blue2Gamer
+### Artist
+    Pinky1083
+    Splotststs2313
+    newDev
+### Other
+    The Community!!
+### Supporters
+    Masty13
+    Cooolkid213
+    thatboyeligha
+    omgKarina
